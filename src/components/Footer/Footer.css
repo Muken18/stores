@@ -1,0 +1,66 @@
+.Footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    margin-left: 200px;
+}
+
+.color {
+    width: 205vh;
+    background-color: #707987;
+    height: 320px;
+}
+
+
+
+.container_footer {
+    width: 90%;
+}
+
+.Google {
+    display: flex;
+}
+
+.h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FAFAFA;
+}
+
+.Footer_p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FAFAFA;
+}
+
+.secttion1 {
+    width: 13%;
+}
+
+
+.secttion2 {
+    width: 10%;
+}
+
+.secttion3 {
+    width: 10%;
+}
+
+.secttion4 {
+    width: 15%;
+}
+
+.footer2 {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 200px;
+    margin-top: 50px;
+}

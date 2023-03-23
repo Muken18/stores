@@ -1,0 +1,153 @@
+.container {
+    border: 2px solid #dcdcdc;
+    border-color: rgb(246, 246, 246);
+    border-radius: 15px;
+    margin-top: 10px;
+}
+
+.section1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 50px;
+    border-color: rgb(246, 246, 246);
+    margin-top: 20px;
+}
+
+.container_price {
+    display: flex;
+    align-items: center;
+}
+
+.price {
+    width: 45px;
+    height: 15px;
+    margin-left: 20px;
+}
+
+.container_zv {
+    display: flex;
+    align-items: center;
+}
+
+.zv {
+    width: 80px;
+    height: 15px;
+}
+
+
+
+.zv_p {
+    margin-left: 5px;
+}
+
+
+.display_flex {
+    display: flex;
+    align-items: center;
+}
+
+
+.f123 {
+    display: flex;
+    align-items: center;
+}
+
+.frame6 {
+    box-sizing: border-box;
+    width: 17.71px;
+    height: 17.71px;
+    left: 1.14px;
+    top: 1.14px;
+}
+
+.phone_p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #F58735;
+}
+
+.span {
+    display: flex;
+    align-items: center;
+}
+
+
+.btn_basket {
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    border-color: #F58735;
+    color: white;
+    align-items: center;
+    background-color: #F58735;
+}
+
+.inStock {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #3BC13D;
+}
+
+.delivery {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #3BC13D;
+}
+
+.container_main {
+    margin-left: 150px;
+}
+
+.softech {
+    display: flex;
+}
+
+.softech_p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #AEB3BA;
+}
+
+.softech_p1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #383838;
+}
+
+.aboutus {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #383838;
+}
+
+.iphone13 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #383838;
+}
